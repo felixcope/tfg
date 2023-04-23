@@ -1,0 +1,6 @@
+1. Generar para cada dataframe interesante de los que tarda en compilar un csv con el objetoivo de guardar los datos y evitar elevados tiempos de simulación.
+2. Valorar crear una funcion que dado ciertos parámetros, devuelva un modelo (Una vez se tengan los csv's necesarios)
+3. Tratar en profundidad la ecuación de Fokker-Plank y hablar sobre su profunda relación con el modelo, ños mañlos resultados y la necesidad de multitrayectoria.  
+4. Leer bibliografía y escribir introducción y motivación matemática
+5. Profundizar sobre los conceptos visto en clase y en las diapositivas.
+
