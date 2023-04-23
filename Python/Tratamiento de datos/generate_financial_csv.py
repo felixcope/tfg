@@ -2,7 +2,8 @@
 """
 Created on Sat Apr 15 20:27:14 2023
 
-@author: Usuario
+@author: Félix
+
 
 """
 # PROGRAMA PARA COMPROBAR LAS FECHAS Y GENERAR CSV CON LOS DATOS
